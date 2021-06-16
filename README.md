@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @IvanPoeys
-- 👀 I’m interested  
-- 🌱 I’m currently learning  Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I am interested in learning and contributing more every day.
+- 🌱 I’m currently learning  Python.
+- 💞️ I try to collaborate on open source projects using python.
+- 📫 ivanpoeys.up@gmail.com
 
 <!--
 IvanPoeys/IvanPoeys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
